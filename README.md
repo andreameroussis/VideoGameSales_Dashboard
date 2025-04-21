@@ -44,7 +44,7 @@ Dashboard interactivo hecho en Power BI para analizar las ventas globales de vid
 
 **Andrea**  
 Analista de datos | Automatización de procesos | Visualización & BI  
-[LinkedIn]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/andreameroussis/))
+[LinkedIn]([https://www.linkedin.com/in/andreameroussis/])
 
 
 ---
